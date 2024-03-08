@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
+# killing a process
 pid=$(<file.txt)
 kill $pid
