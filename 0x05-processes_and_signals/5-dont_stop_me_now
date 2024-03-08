@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+pid=$(<file.txt)
+kill $pid
