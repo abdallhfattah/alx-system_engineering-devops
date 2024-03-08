@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # printing "To infinity and beyond" for ever
 i=0
+echo "$$">"file.txt"
 while [ "$i" -ne 10 ]
 do
     echo "To infinity and beyond"
