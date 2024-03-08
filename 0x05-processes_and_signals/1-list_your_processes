@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Display all processes, including those without a TTY, in a user-oriented format
+ps auxf
